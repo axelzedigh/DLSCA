@@ -18,7 +18,7 @@ Install instructions:
 3. conda activate tensorflow_env **OR** source activate tensorflow_env (for older versions)
 4. conda install -c conda-forge tensorflow=1.12.0  (necessity of older version being investigated)
 5. conda install keras
-6. pip install fbs
+6. conda run pip install fbs
 7. conda install pyqt
 8. conda install matplotlib
 9. Clone this repository
